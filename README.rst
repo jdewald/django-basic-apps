@@ -1,6 +1,7 @@
 =================
 Django Basic Apps
 =================
+This fork is for upgrading to Django 1.5
 
 Simple apps for Django projects.
 
